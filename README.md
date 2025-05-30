@@ -14,7 +14,7 @@ MovieTrendz is a single-page web application that allows users to explore movies
 
 ## Tech Stack
 
-- **Frontend**: React, HTML, Tailwind-CSS
+- **Frontend**: React, Tailwind-CSS
 - **API**: Third-party movie API - TMDb
 - **Database**: Online database (Appwrite) for tracking search trends
 - **Deployment**: Hosted on Railway
