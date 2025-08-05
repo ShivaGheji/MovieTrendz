@@ -2,8 +2,6 @@
 
 MovieTrendz is a single-page web application that allows users to explore movies, view trending films, and search for their favorite titles. The site fetches movie data from a third-party API and uses an online database to track search trends, displaying the most-searched movies in a dynamic trending list.
 
-**Live Demo**: [movietrendz.up.railway.app](https://movietrendz.up.railway.app/)
-
 ## Features
 
 - **Movie Cards**: Displays movies in a card format with name, release date, poster, and rating.
