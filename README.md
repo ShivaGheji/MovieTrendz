@@ -19,7 +19,7 @@ MovieTrendz is a single-page web application that allows users to explore movies
 
 ## Live Demo
 
-Explore the live application at [https://movietrendz.vercel.app/](https://movietrendz.vercel.app/).
+Explore the live application at <a href="https://movietrendz.vercel.app/" target="_blank">Live link</a>
 
 ## Screenshots
 
